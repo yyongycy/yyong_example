@@ -4,6 +4,7 @@ In this example, java 11 is expected.
 
 mvn package
 
+
 **Run Command:**
 
 java -jar target/alluxio-simple-client-1.0-SNAPSHOT.jar TestAlluxioClient /test.txt
